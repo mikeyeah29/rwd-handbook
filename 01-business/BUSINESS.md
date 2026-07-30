@@ -2,11 +2,9 @@
 
 Rockett Web Design (RWD) is a WordPress development and website-care business run by Mike Rockett.
 
-RWD builds and improves websites that support long-term business growth. Its central belief is:
+## Mission
 
-> **Websites should never stand still.**
-
-A website should be treated as a working business asset—not a one-off project that is launched and gradually forgotten. RWD combines WordPress expertise, thoughtful human guidance, automation and practical AI to keep websites secure, effective and improving over time.
+To build WordPress websites that evolve with the businesses they support, combining expert development, AI and automation to create long-term digital assets rather than short-term projects.
 
 ## Core Services
 
@@ -58,41 +56,27 @@ Websites should be:
 - Designed to evolve rather than require frequent complete rebuilds
 - Capable of moving into an ongoing Website Care plan after launch
 
-## Positioning
+## Business Model
 
-RWD is not positioned as a high-volume, generic web-design agency. It is a specialist WordPress partner focused on quality, reliability and long-term relationships.
+RWD combines project-based development with recurring revenue.
 
-The three services support one another:
+The business is intentionally structured around three complementary service types:
 
-1. White-label work creates lasting agency partnerships.
-2. Custom builds create strong website foundations.
-3. Monthly AI Website Care turns those foundations into continually improving business assets.
+1. White-Label Development provides consistent agency partnerships.
+2. Custom Websites generate new client relationships and project revenue.
+3. Website Momentum creates recurring revenue while continually increasing value for existing clients.
 
-Where relevant, business, marketing and product decisions should support the growth of the recurring Website Care service without weakening the white-label or custom-build offerings.
+This model allows RWD to build long-term relationships rather than relying solely on acquiring new projects.
 
-## Brand Character
+## Target Audience
 
-RWD should communicate with calm authority. The tone should be personal, clear, practical and quietly confident.
+RWD focuses on organisations that value quality, long-term thinking and trusted technical expertise.
 
-Avoid:
+Primary audiences include:
 
-- Hype and exaggerated promises
-- Fear-based security or AI messaging
-- Unnecessary technical jargon
-- Generic agency clichés
-- Presenting AI as a replacement for human expertise
+Digital and creative agencies
+Estate agents
+Therapists and coaches
+Small businesses
 
-Emphasise:
-
-- Continuous improvement
-- Reliable long-term support
-- Clear business value
-- Human expertise amplified by useful technology
-- Websites as evolving business assets
-
-## Useful Brand Lines
-
-- **Websites should never stand still.**
-- **Websites built to grow.**
-- **Don't build another website. Build an asset.**
-- **Built to evolve.**
+These audiences value dependable partnerships, thoughtful development and websites that continue to improve over time.
