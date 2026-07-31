@@ -37,7 +37,7 @@ Conversion and content improvements
 AI-powered business and marketing automations
 Proactive monthly development and feature enhancements
 
-The goal is simple: websites should never stand still. Every month should leave the website faster, stronger, more effective and better aligned with the client's business goals.
+The goal is simple: a great website should create momentum. Every month should leave the website faster, stronger, more effective and better aligned with the client's business goals.
 
 ### 3. Custom Website Builds
 
