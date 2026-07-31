@@ -1,84 +1,143 @@
 # Messaging
 
-RWD's messaging should make the value of a high-performing website asset easy to understand.
+RWD's messaging should explain the value of thoughtful WordPress development, dependable technical partnership and websites that become stronger business assets.
 
-The core message is not just "we build websites". It is:
+The business-level message should sit above any individual service.
 
-**RWD builds websites that create momentum.**
+## Core Message
+
+**RWD builds and supports WordPress websites that create business momentum.**
+
+This applies whether the work is a new website, ongoing Website Momentum or white-label development for an agency.
 
 ## Core Belief
 
 **A great website creates momentum.**
 
-Most websites are treated as a finished deliverable. RWD exists to build something more useful: a website that works as a long-term business asset and creates value after launch, without becoming another job for the client to manage.
+A website should do more than exist online. It should build trust, support sales, create opportunities, reduce friction and become more useful to the business over time.
 
 ## One-Liner
 
-RWD builds WordPress websites and Website Momentum plans that turn websites into stronger business assets.
+RWD helps businesses and agencies get more long-term value from WordPress websites.
 
 ## Short Pitch
 
-RWD helps businesses turn their websites into long-term digital assets. We build and strengthen WordPress websites through expert development, AI, automation and thoughtful care, so they stay secure, visible, useful and aligned with the business as it grows, without the client needing to keep track of every technical detail.
+RWD builds, supports and improves WordPress websites for businesses and agencies that value quality, clarity and long-term thinking. The work combines careful development, practical strategy, AI and automation to create websites that are secure, useful, visible and easier to manage.
 
 ## Longer Pitch
 
-Most websites are treated as finished projects. They launch, exist online and then quietly lose relevance as the business changes around them.
+Most websites are treated as finished deliverables. They launch, exist online and then gradually lose relevance as the business changes around them.
 
-RWD takes a different approach. We build WordPress websites as assets, then support them through Website Momentum: a structured process of maintenance, optimisation, measurement, content, conversion improvements and automation.
+RWD takes a more useful approach. We build WordPress websites as business assets, support agencies with dependable white-label development and help existing websites create more momentum through ongoing care and improvement.
 
-The result is a website that does more than exist online. It helps the business build trust, attract better opportunities and make progress over time, while taking the mental load of website upkeep and growth off the client's plate.
+The goal is not just to make a website look good. The goal is to make it work harder for the business behind it.
 
-## Key Messages
+## Primary Audiences
+
+### Businesses
+
+For businesses that need a website to build trust, explain their services, generate enquiries and support growth.
+
+### Agencies
+
+For creative, design and marketing agencies that need dependable WordPress development support without hiring another full-time developer.
+
+### Existing Website Owners
+
+For businesses that know their website could be doing more, but do not want website upkeep, SEO, performance and technical decisions to become another job.
+
+## Message Pillars
 
 ### Build An Asset
 
 A website should support growth, save time, build trust and create opportunities. It should not be a static brochure that gets revisited every few years.
 
-### Maintenance Is Only The Baseline
+### Reliable WordPress Expertise
 
-Updates, backups and security matter, but they are not the full story. RWD's stronger message is asset value: making the website faster, clearer, more visible and more useful.
+RWD should communicate technical depth without overwhelming people. The message is careful WordPress development, sensible decisions and dependable delivery.
 
 ### Take Away The Mental Load
 
 Clients often know their website matters, but they do not always have the time, headspace or expertise to think about SEO, page speed, accessibility, analytics, security, content, conversion and technical improvements.
 
-RWD should position Website Momentum as a calm, capable way to take that responsibility off the client's mind while still moving the website forward.
+RWD should make clients feel that these important details are being handled properly.
 
-### Momentum Compounds
+### Long-Term Value
 
-Small, consistent improvements can outperform occasional large redesigns. Every useful update should make the website stronger than it was before.
+The website should be built and supported with the future in mind: maintainable code, strong foundations, practical improvements and decisions that keep creating value after launch.
 
-### Technology Should Feel Simple
+### Calm Technical Partnership
 
-Clients should see progress and understand the value without needing to manage the technical complexity themselves.
+RWD should feel like a steady partner, not a noisy agency. The tone should be clear, honest, practical and reassuring.
 
-### AI Should Make Website Care More Proactive
+## Service-Specific Messaging
 
-AI and automation should help identify opportunities, reduce repetitive work and make website growth more efficient.
+### Custom WordPress Websites
+
+**Message:** Bespoke WordPress websites built around the client's goals, audience and brand.
+
+Use this messaging when the client needs a new site or a significant rebuild.
+
+Focus on:
+
+- Clear strategy before design and development.
+- Fast, secure and accessible WordPress builds.
+- Easy editing for the client.
+- A strong foundation for future growth.
+- Websites that can move into ongoing support after launch.
+
+### Website Momentum
+
+**Message:** Ongoing website care and improvement that turns a website into a stronger business asset.
+
+Use this messaging when the client already has a website or wants long-term support after launch.
+
+Focus on:
+
+- Maintenance as the baseline, not the full value.
+- SEO, performance, analytics, content, conversion and automation.
+- Taking the mental load away from the client.
+- Prioritised improvements based on what matters most.
+- Compounding value over time.
+
+### White-Label WordPress Development
+
+**Message:** Dependable WordPress development support for agencies.
+
+Use this messaging when speaking to creative, design, marketing or web agencies.
+
+Focus on:
+
+- Turning supplied designs into careful WordPress builds.
+- Increasing delivery capacity without hiring.
+- Protecting the agency's client relationship.
+- Clear communication and reliable delivery.
+- Custom themes, blocks, plugins, integrations and technical problem-solving.
 
 ## Proof Points
 
 Use these as supporting evidence in copy, proposals and sales conversations:
 
-- WordPress development expertise
-- Security, updates, backups and monitoring
-- Performance and accessibility improvements
-- SEO monitoring and optimisation
-- Analytics, reporting and recommendations
-- Conversion and content improvements
-- AI-powered business and marketing automation
-- Planned development and feature improvements
+- WordPress development expertise.
+- Custom themes, Gutenberg blocks and plugin development.
+- Security, updates, backups and monitoring.
+- Performance and accessibility improvements.
+- SEO monitoring and optimisation.
+- Analytics, reporting and recommendations.
+- Conversion and content improvements.
+- AI-powered business and marketing automation.
+- Clear communication and long-term support.
 
 ## Messaging To Avoid
 
-Avoid phrases that make RWD sound generic, inflated or like a typical agency.
+Avoid phrases that make RWD sound generic, inflated or like a typical agency:
 
-- Cutting-edge solutions
-- Industry-leading websites
-- Maximise your online potential
-- We take your business to the next level
-- Affordable web design
-- Set it and forget it
-- Just maintenance
+- Cutting-edge solutions.
+- Industry-leading websites.
+- Maximise your online potential.
+- We take your business to the next level.
+- Affordable web design.
+- Set it and forget it.
+- Just maintenance.
 
-Prefer specific, grounded language that explains what improves and why it matters.
+Prefer specific, grounded language that explains what improves, why it matters and how it helps the business.
