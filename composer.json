@@ -1,0 +1,8 @@
+{
+  "name": "rockett-web-design/handbook",
+  "description": "A small browser-based viewer for the Rockett Web Design Markdown handbook.",
+  "type": "project",
+  "require": {
+    "erusev/parsedown": "^1.7"
+  }
+}

@@ -10,7 +10,7 @@ The business should become progressively less dependent on selling time and incr
 
 The long-term objective is to build a business that:
 
-Generates £6,000+ per month in sustainable revenue.
+Generates £6,000 - £10,000+ per month in sustainable revenue.
 Requires no more than 4–6 hours of focused work per day, 4 days per week.
 Delivers exceptional value to clients through continuous improvement rather than one-off projects.
 Creates time and freedom to invest in new products, learning, creativity and family, without sacrificing business growth.

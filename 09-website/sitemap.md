@@ -18,10 +18,10 @@ The site should remain focused and avoid unnecessary pages.
 
 - Home
 - Services
-- Who We Work With
+- Who I Work With
 - Work
 - About
-- Insights
+- Insights ( blog )
 - Contact
 
 **Primary call to action:** Let’s Talk
@@ -32,21 +32,23 @@ The site should remain focused and avoid unnecessary pages.
 
 ```text
 /
+|-- home/
+├── my-approach/
+|
 ├── services/
 │   ├── white-label-development/
 │   ├── custom-websites/
 │   └── website-momentum/
 │
-├── who-we-work-with/
-│   ├── digital-agencies/
-│   ├── estate-agents/
-│   ├── therapists-and-coaches/
-│   └── small-businesses/
+├── custom-wordpress-websites/
+│   ├── websites-for-therapists/
+│   ├── websites-for-estate-agents/
+│   ├── websites-for-agencies/
+│   └── websites-for-small-businesses/
 │
 ├── work/
 │   └── [project-name]/
-│
-├── about/
+|
 ├── insights/
 │   └── [article-name]/
 │
