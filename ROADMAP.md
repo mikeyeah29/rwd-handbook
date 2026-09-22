@@ -42,16 +42,16 @@ The first version is complete when these paths are clear:
 
 ## Roadmap at a glance
 
-| Week | Focus | Outcome |
+| Week / dates | Focus | Outcome |
 | ---: | --- | --- |
-| 1 | MVP decisions and content outline | A fixed scope and clear page skeletons |
-| 2 | Homepage | A doorway that explains, directs and builds initial trust |
-| 3 | My Approach | A focused home for the technical and working philosophy |
-| 4 | White-Label Development | The first service page |
-| 5 | Custom Websites and Website Momentum | The remaining two service pages |
-| 6 | Therapist page template | A useful industry page with proof and a simple calculator |
-| 7 | Work, connections and conversion pass | The site works as one joined-up journey |
-| 8 | QA and launch | A live, credible first version |
+| 1 — 21–27 Sep 2026 | MVP decisions and content outline | A fixed scope and clear page skeletons |
+| 2 — 28 Sep–4 Oct 2026 | Homepage | A doorway that explains, directs and builds initial trust |
+| 3 — 5–11 Oct 2026 | My Approach | A focused home for the technical and working philosophy |
+| 4 — 12–18 Oct 2026 | White-Label Development | The first service page |
+| 5 — 19–25 Oct 2026 | Custom Websites and Website Momentum | The remaining two service pages |
+| 6 — 26 Oct–1 Nov 2026 | Therapist page template | A useful industry page with proof and a simple calculator |
+| 7 — 2–8 Nov 2026 | Work, connections and conversion pass | The site works as one joined-up journey |
+| 8 — 9–15 Nov 2026 | QA and launch | A live, credible first version |
 
 ## Week 1 — Fix the MVP and outline the pages
 
