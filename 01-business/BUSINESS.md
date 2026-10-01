@@ -29,13 +29,13 @@ Rather than simply maintaining a website, Website Momentum keeps it moving forwa
 
 Depending on the plan, this may include:
 
-WordPress updates, backups, security and monitoring
-Performance and accessibility improvements
-SEO monitoring and optimisation
-Analytics, reporting and actionable recommendations
-Conversion and content improvements
-AI-powered business and marketing automations
-Proactive monthly development and feature enhancements
+- WordPress updates, backups, security and monitoring
+- Performance and accessibility improvements
+- SEO monitoring and optimisation
+- Analytics, reporting and actionable recommendations
+- Conversion and content improvements
+- AI-powered business and marketing automations
+- Proactive monthly development and feature enhancements
 
 The goal is simple: a great website should create momentum. Every month should leave the website faster, stronger, more effective and better aligned with the client's business goals.
 
@@ -54,7 +54,20 @@ Websites should be:
 - Fast, secure and accessible
 - Built with Gutenberg and native WordPress features where practical
 - Designed to evolve rather than require frequent complete rebuilds
-- Capable of moving into an ongoing Website Care plan after launch
+- Capable of moving into Managed Hosting and Maintenance or Website Momentum after launch
+
+## Supporting Recurring Offer
+
+### Managed Hosting and Maintenance
+
+Managed Hosting and Maintenance is a productised supporting service for clients who want a straightforward RWD-built website hosted, backed up, monitored and technically maintained without continuous improvement work.
+
+It is not a fourth core service. It supports Custom Websites by providing an affordable aftercare route and forms the technical baseline included within Website Momentum.
+
+The distinction should remain clear:
+
+- Managed Hosting and Maintenance keeps a website reliable.
+- Website Momentum makes a website more valuable to the business over time.
 
 ## Business Model
 
@@ -66,7 +79,7 @@ The business is intentionally structured around three complementary service type
 2. Custom Websites generate new client relationships and project revenue.
 3. Website Momentum creates recurring revenue while continually increasing value for existing clients.
 
-This model allows RWD to build long-term relationships rather than relying solely on acquiring new projects.
+Managed Hosting and Maintenance adds a lower-cost recurring aftercare route for suitable website clients who do not need Momentum. This model allows RWD to build long-term relationships rather than relying solely on acquiring new projects.
 
 ## Target Audience
 

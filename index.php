@@ -239,7 +239,7 @@ function document_link_label(string $path): string
 
     <?php if (!$is_document): ?>
         <main id="content" class="home-content">
-            <section class="intro-block">
+            <section class="intro-block home-hero">
                 <p class="eyebrow">The reason behind the work</p>
                 <h1>Build toward<br><em>£6k–£10k months.</em></h1>
                 <p class="intro-copy">This handbook keeps the real goal in view: build Rockett Web Design into a business that generates £6,000–£10,000 per month and moves me away from hourly-paid work. Every note should help make that possible.</p>

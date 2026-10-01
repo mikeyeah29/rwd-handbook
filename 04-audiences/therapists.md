@@ -4,7 +4,18 @@ Last updated: 22 September 2026
 
 ## Purpose
 
-This document provides audience context for website pages, landing pages, proposals, emails and other marketing aimed at therapists in private practice.
+This document defines the therapist audience for RWD's marketing, content and sales work.
+
+It can be used when creating:
+
+- Website copy
+- Blog posts and guides
+- Email campaigns
+- Paid and organic social content
+- Search advertising
+- Proposals and sales material
+- Discovery-call questions
+- Products, offers and ongoing services
 
 Use it to understand:
 
@@ -16,7 +27,7 @@ Use it to understand:
 - The outcomes they want
 - The messages and evidence most likely to build trust
 
-Do not treat every phrase in this document as finished website copy. Use the research to write clear, natural copy appropriate to the page and its purpose.
+Do not treat every phrase in this document as finished marketing copy. Use the research to understand the audience first, then adapt the message to the channel, context and stage of awareness.
 
 ## Research scope and limitations
 
@@ -52,13 +63,13 @@ Use profession-specific wording rather than implying all titles mean the same th
 - Practitioner psychologists, including clinical and counselling psychologists
 - Other talking-therapy practitioners where their qualifications and professional claims can be represented accurately
 
-“Therapist” is the primary marketing and SEO umbrella for this page. The individual titles should still appear prominently because people identify with their own professional title.
+“Therapist” is a useful marketing umbrella when RWD needs one broad label. It should not replace the profession-specific titles people use to describe themselves. Where possible, name counsellors, psychotherapists and psychologists explicitly.
 
 The HCPC protects titles including “clinical psychologist” and “counselling psychologist.” Credentials and registration claims must therefore be reproduced precisely rather than simplified for marketing. [HCPC: professions and protected titles](https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/)
 
 ### Not the primary audience
 
-- Coaches: commercially adjacent, but not a subset of therapists. They should eventually have their own page and message.
+- Coaches: commercially adjacent, but not a subset of therapists. They require a separate audience profile and message.
 - Psychiatrists: medically qualified doctors with different services, referral routes and website requirements.
 - Large clinics, hospitals and NHS services: potentially valuable but outside the initial solo/small-practice offer.
 - Practitioners looking only for a directory profile or a free DIY template.
@@ -140,7 +151,7 @@ This is a secondary segment. Its requirements can include:
 - A consistent practice brand without erasing individual personalities
 - More complex booking, intake and internal routing
 
-Avoid letting group-practice complexity dominate a page whose clearest initial fit is the solo practitioner.
+Treat group practices as a distinct secondary segment rather than allowing their more complex needs to blur the message for solo practitioners.
 
 ## The job they are hiring for
 
@@ -211,7 +222,7 @@ They want someone to distinguish between a visibility problem and a conversion p
 
 Buying a website or an SEO add-on does not guarantee visibility. One independent review of a therapist-specific platform reported “NOT ONE CALL or view (except my own)” after five months. [Trustpilot: TherapySites reviews](https://www.trustpilot.com/review/www.therapysites.com)
 
-This makes the audience understandably sceptical. A page must explain what is included, what happens after launch and how progress can be observed without making performance guarantees.
+This makes the audience understandably sceptical. Marketing and sales material should explain what is included, what happens after launch and how progress can be observed without making performance guarantees.
 
 ### 4. They struggle to explain who they help without sounding generic
 
@@ -288,7 +299,7 @@ A prospective client may be comparing several practitioners or reaching out at a
 
 Some practitioners want direct consultation booking; others want to speak before offering an appointment so they can assess fit. The correct journey must match the practitioner’s process rather than imposing one funnel on everyone.
 
-The page should promise a clear next step, not automatic booking by default.
+Marketing should show that the enquiry journey will be designed around the practitioner's real process rather than assuming everybody wants automatic booking.
 
 ### 10. Price and return on investment are uncertain
 
@@ -375,7 +386,7 @@ The ultimate dream outcome is:
 
 ## Questions in the buyer's mind
 
-The landing page should answer these questions directly or indirectly:
+Marketing and sales conversations should answer these questions at the appropriate stage:
 
 - Do you understand therapists and private practice, or am I just another small business?
 - Do you work with counsellors, psychotherapists and psychologists specifically?
@@ -513,26 +524,167 @@ The most persuasive proof will be:
 
 Do not invent enquiry increases, ranking gains or clinical-business outcomes. Use analytics only where RWD has permission and reliable before-and-after data.
 
-## Implications for the landing page
+## How to market to this audience
 
-The page should:
+### Start with recognition, not persuasion
 
-- Use “websites for therapists” as the primary topic
-- Name counsellors, psychotherapists and psychologists near the top
-- Keep coaches outside the page’s core promise
-- Lead with fit, trust and suitable enquiries rather than technology
-- Acknowledge that the visitor may be starting, established or replacing a DIY site
-- Show that referrals and directories remain useful
-- Explain that the website can support discovery and verification
-- Demonstrate sector understanding without claiming clinical expertise
-- Include proof from Paul Clealand and Emiliana Silvestri where permission exists
-- Use Annemarie only if her psychologist work and professional title can be presented accurately and the project can be publicly attributed
-- Reserve Carol’s coaching work for a future coaches page
-- Explain the process and what the client needs to provide
-- Include an indicative price estimator without presenting it as a final quote
-- Explain ownership, editing and optional ongoing support
-- Include an honest SEO FAQ with no ranking guarantee
-- Avoid unverified “GDPR compliant,” accessibility or results claims
+The audience should recognise its situation before being asked to consider an offer. Useful starting points include:
+
+- “I am starting a private practice and do not know what the website needs.”
+- “My practice has developed, but my website still reflects where I began.”
+- “I have a website, but the right people are not finding or contacting me.”
+- “Most of my enquiries come through referrals or directories, but people still check my website.”
+- “I have tried to improve the site myself and it has become another unfinished job.”
+
+Reflect the situation accurately and calmly. Do not intensify it with claims about lost revenue, invisible competitors or a failing practice.
+
+### Sell suitable enquiries, not maximum volume
+
+Many therapists do not want unlimited enquiries. They want a sustainable caseload and a better match between their skills, preferred work and the people who contact them.
+
+Frame the benefit as:
+
+- Helping the right people find the practice
+- Helping prospective clients understand whether the practitioner may be a good fit
+- Reducing unsuitable and repetitive enquiries
+- Supporting a sustainable private practice
+- Making referrals and recommendations more likely to turn into confident contact
+
+Avoid treating vulnerable prospective clients as traffic, leads or conversion opportunities in public-facing copy.
+
+### Connect technical work to human outcomes
+
+Technical features are useful only when their practical value is clear:
+
+- SEO helps suitable clients discover the practice.
+- Clear structure helps an anxious visitor find the information they need.
+- Performance reduces delay and frustration on mobile devices.
+- Accessibility allows more people to use the website.
+- Simple editing helps the practitioner keep fees, availability and services accurate.
+- Security and careful forms help protect sensitive enquiries.
+- Maintainable WordPress foundations allow the site to change with the practice.
+
+Do not lead with Gutenberg, schema, Core Web Vitals or custom code unless the audience has already shown interest in the implementation.
+
+### Respect professional identity
+
+Use the exact title a practitioner uses for themselves. Do not present counsellors, psychotherapists, psychologists, coaches and psychiatrists as interchangeable.
+
+When marketing to a mixed audience:
+
+- Use “therapists” as shorthand only when the surrounding wording names the included professions.
+- Refer to “your practice,” “your work” and “the people you help” where a shared phrase is more natural.
+- Verify protected titles, memberships and registration claims.
+- Avoid claiming clinical or regulatory expertise RWD does not hold.
+
+### Demonstrate understanding through specifics
+
+Generic declarations such as “I understand therapists” are less persuasive than showing knowledge of the decisions they face.
+
+Useful specifics include:
+
+- Explaining specialisms without sounding exclusionary
+- Balancing professional credibility with personal warmth
+- Showing online and in-person formats clearly
+- Presenting fees, availability and locations without ambiguity
+- Supporting directory and professional referrals
+- Choosing between direct booking and an initial conversation
+- Collecting only necessary information in an early enquiry
+- Preserving existing content and search visibility during a redesign
+- Making routine updates without relying on a developer
+
+### Reduce perceived risk
+
+This audience values a calm process and clear boundaries. Marketing should make it easy to understand:
+
+- What is included
+- What the practitioner needs to provide
+- Whether content help is available
+- How feedback and revisions work
+- What the practitioner owns
+- Which costs recur
+- What happens after launch
+- Whether ongoing support is optional
+- What can and cannot be promised about search visibility
+
+Specificity builds more trust than broad reassurance.
+
+### Use proof that reflects the audience
+
+Relevant proof is more persuasive than a large, mixed portfolio. Prioritise:
+
+- Work for counsellors, psychotherapists and psychologists
+- The exact problem or situation behind the project
+- Decisions that reflect the needs of private practice
+- Approved feedback about listening, clarity, communication and support
+- Evidence of usability, maintainability or improved visibility where reliable data and permission exist
+
+Do not imply performance improvements that have not been measured. Do not use confidential or sensitive client information to create a stronger case study.
+
+### Teach without overwhelming
+
+Educational marketing is a strong fit because the audience frequently feels unsure rather than uninterested. Useful content should make one decision easier at a time.
+
+Good educational topics include:
+
+- What a private-practice website needs before launch
+- How to describe who you help without sounding generic
+- Whether a therapist still needs a website when using directories
+- What prospective clients look for before making contact
+- How local search works for therapists
+- What to ask a therapist website designer
+- The difference between hosting, maintenance and ongoing improvement
+- How to redesign a therapy website without losing useful content
+- What information an initial contact form should and should not request
+- How to make fees, availability and session format easier to understand
+
+Avoid content that uses anxiety to manufacture urgency or presents SEO as a collection of tricks.
+
+## Channel guidance
+
+### Blog posts and guides
+
+Lead with a real private-practice question and answer it thoroughly in plain English. Use examples and checklists, but avoid implying there is one correct model for every practitioner. Connect the advice to a service only where it is genuinely relevant.
+
+### Email campaigns
+
+Use a calm, helpful sequence rather than frequent sales pressure. One email should solve one small problem or explain one decision. Useful themes include starting well, clarifying a specialism, improving an existing site and maintaining momentum after launch.
+
+### Paid search and social advertising
+
+Target a specific situation rather than the whole profession. “Website help for counsellors starting private practice” is more recognisable than a broad claim about growing a therapy business.
+
+Advertising should:
+
+- Use the audience's professional title where possible
+- Name the problem plainly
+- Offer a proportionate next step
+- Avoid guaranteed rankings or enquiry volumes
+- Avoid unsupported health, efficacy or compliance claims
+- Send people to content or an offer that matches the advertisement closely
+
+### Organic social content
+
+Share practical observations, before-and-after reasoning, common mistakes and short explanations of unfamiliar technical topics. The tone should be generous and professionally respectful, not corrective or mocking of DIY work.
+
+### Proposals and sales conversations
+
+Tailor the conversation to the practitioner's stage, referral model, ideal clients and capacity. Diagnose whether the real problem is visibility, positioning, trust, usability or technical restriction before proposing a rebuild.
+
+Use the proposal to remove uncertainty around scope, content responsibilities, ownership, ongoing costs, timeline and support. Do not use technical complexity to justify value when a clearer business or client outcome is available.
+
+## Marketing tests
+
+Before publishing any campaign or piece of content, ask:
+
+- Does this use the professional language the intended segment uses for itself?
+- Does it recognise a real situation rather than inventing anxiety?
+- Does it promise clarity, fit or useful progress rather than indiscriminate growth?
+- Is the technical benefit translated into a human or business outcome?
+- Are credentials, regulation, privacy and performance claims accurate?
+- Does the evidence come from relevant work?
+- Is the next step proportionate to the reader's level of awareness?
+- Would an experienced practitioner feel respected by this message?
 
 ## Source notes
 

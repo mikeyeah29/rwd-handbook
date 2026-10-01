@@ -207,7 +207,7 @@ Where applicable:
 - [ ] Send launch email
 - [ ] Deliver login details
 - [ ] Provide basic training
-- [ ] Invite client to Website Momentum
+- [ ] Confirm client-managed handover, Managed Hosting and Maintenance, or Website Momentum
 - [ ] Schedule 30-day follow-up
 
 ---

@@ -88,7 +88,7 @@ Focus on:
 
 ### Website Momentum
 
-**Message:** Ongoing website care and improvement that turns a website into a stronger business asset.
+**Message:** Ongoing website improvement that turns a website into a stronger business asset.
 
 Use this messaging when the client already has a website or wants long-term support after launch.
 
@@ -99,6 +99,27 @@ Focus on:
 - Taking the mental load away from the client.
 - Prioritised improvements based on what matters most.
 - Compounding value over time.
+
+### Managed Hosting and Maintenance
+
+**Message:** Reliable hosting and essential WordPress maintenance for clients who want their RWD-built website looked after after launch.
+
+Use this as supporting-offer messaging, not as a fourth core service. It is appropriate when the client wants technical reassurance but does not need continuous improvement work.
+
+Focus on:
+
+- Managed hosting, backups, updates and monitoring.
+- A clear, limited technical scope.
+- Optional aftercare without an ongoing growth commitment.
+- Straightforward ownership, cancellation and transfer arrangements.
+- A natural upgrade route when the client later needs Website Momentum.
+
+Do not describe it as:
+
+- A growth, SEO or optimisation plan.
+- Unlimited support or unlimited changes.
+- Equivalent to Website Momentum.
+- A guarantee that the website can never experience a fault or security issue.
 
 ### White-Label WordPress Development
 

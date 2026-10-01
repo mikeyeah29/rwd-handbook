@@ -262,6 +262,7 @@ Keep these as a backlog, not as launch blockers:
 - Add more work items and write deeper case studies when there is a clear reason to do so.
 - Improve the Work template with stronger outcomes, testimonials and related services.
 - Develop Website Momentum into a more detailed package, workflow and client reporting system.
+- Select the Managed Hosting and Maintenance delivery stack, then create its internal operating playbook.
 - Add the Insights/blog section and publish posts from real client questions and project experience.
 - Add lead magnets, email nurture and more advanced conversion tracking.
 - Review SEO based on actual search demand and enquiries.

@@ -12,6 +12,23 @@ The goal isn't simply to maintain a website—it's to help it generate more valu
 
 ---
 
+# Managed Hosting and Maintenance vs Website Momentum
+
+Managed Hosting and Maintenance is available for suitable clients who only need the technical essentials handled. It keeps an eligible RWD-built website hosted, backed up, monitored and maintained within a clearly limited scope.
+
+Website Momentum includes that technical foundation, then adds proactive, prioritised improvement work.
+
+| Managed Hosting and Maintenance | Website Momentum |
+| --- | --- |
+| Keeps the website reliable. | Makes the website more valuable over time. |
+| Hosting, backups, updates and monitoring. | Technical care plus analysis, recommendations and implementation. |
+| No recurring content, SEO, conversion or development work. | Can improve performance, visibility, content, conversion and automation. |
+| Appropriate when the website needs looking after. | Appropriate when website performance materially affects the business. |
+
+Clients use one route rather than purchasing both. Momentum is not a more expensive hosting plan; it is an ongoing website-improvement partnership.
+
+---
+
 # How Do We Create Momentum?
 
 Every improvement we make falls into one of six core areas.

@@ -18,9 +18,17 @@ The site should remain focused and avoid unnecessary pages.
 
 - Home
 - Services
+    ├── Custom WordPress Websites
+    ├── Website Momentum
+    ├── White-label WordPress Development ( /services/white-label-development )
+    └── Hosting & Maintenance
+
 - Who I Work With
+    ├── Therapists
+    ├── Estate Agents
+    ├── Small Businesses
+    └── Creative Agencies ( /services/white-label-development )
 - Work
-- About
 - Insights ( blog )
 - Contact
 
@@ -37,14 +45,13 @@ The site should remain focused and avoid unnecessary pages.
 |
 ├── services/
 │   ├── white-label-development/
-│   ├── custom-websites/
-│   └── website-momentum/
+│   ├── custom-wordpress-websites/
+│   |── website-momentum/
+│   └── managed-hosting/
 │
-├── custom-wordpress-websites/
-│   ├── websites-for-therapists/
-│   ├── websites-for-estate-agents/
-│   ├── websites-for-agencies/
-│   └── websites-for-small-businesses/
+├── websites-for-therapists/
+├── websites-for-estate-agents/
+├── websites-for-small-businesses/
 │
 ├── work/
 │   └── [project-name]/
