@@ -16,3 +16,9 @@ Delivers exceptional value to clients through continuous improvement rather than
 Creates time and freedom to invest in new products, learning, creativity and family, without sacrificing business growth.
 
 Every strategic decision should move the business closer to these outcomes.
+
+# Short Term Goals
+
+1. Build & Launch the new RWD website
+2. Tighten the SEO / performance of the RWD website
+3. Get one momentum customer to test the service and get feedback

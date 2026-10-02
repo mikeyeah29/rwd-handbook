@@ -4,7 +4,7 @@ Rockett Web Design (RWD) is a WordPress development and website-care business ru
 
 ## Mission
 
-To build WordPress websites that evolve with the businesses they support, combining expert development, AI and automation to create long-term digital assets rather than short-term projects.
+To build WordPress websites that evolve with the businesses they support, combining expert development, strategy and automation to create long-term digital assets rather than short-term projects.
 
 ## Core Services
 

@@ -100,82 +100,8 @@ function render_markdown(string $markdown): string
         return $parsedown->text($markdown);
     }
 
-    // A small fallback keeps the viewer usable before `composer install` has run.
-    $escaped = htmlspecialchars($markdown, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
-    $escaped = preg_replace_callback('/```([a-zA-Z0-9_-]*)\n([\s\S]*?)```/', static function (array $match): string {
-        $language = $match[1] !== '' ? ' class="language-' . htmlspecialchars($match[1], ENT_QUOTES, 'UTF-8') . '"' : '';
-        return '<pre><code' . $language . '>' . rtrim($match[2], "\n") . '</code></pre>';
-    }, $escaped) ?? $escaped;
-
-    $lines = preg_split('/\r\n|\r|\n/', $escaped) ?: [];
-    $html = [];
-    $in_list = false;
-    $list_type = '';
-    $paragraph = [];
-
-    $flush_paragraph = static function () use (&$html, &$paragraph): void {
-        if ($paragraph !== []) {
-            $html[] = '<p>' . implode(' ', $paragraph) . '</p>';
-            $paragraph = [];
-        }
-    };
-
-    $close_list = static function () use (&$html, &$in_list, &$list_type): void {
-        if ($in_list) {
-            $html[] = '</' . $list_type . '>';
-            $in_list = false;
-            $list_type = '';
-        }
-    };
-
-    foreach ($lines as $line) {
-        if (str_starts_with($line, '<pre><code') || str_starts_with($line, '</code></pre>')) {
-            $flush_paragraph();
-            $close_list();
-            $html[] = $line;
-            continue;
-        }
-
-        if (trim($line) === '') {
-            $flush_paragraph();
-            $close_list();
-            continue;
-        }
-
-        if (preg_match('/^(#{1,6})\s+(.+)$/', $line, $match)) {
-            $flush_paragraph();
-            $close_list();
-            $level = strlen($match[1]);
-            $html[] = '<h' . $level . '>' . $match[2] . '</h' . $level . '>';
-            continue;
-        }
-
-        if (preg_match('/^[-*]\s+(.+)$/', $line, $match) || preg_match('/^\d+\.\s+(.+)$/', $line, $match)) {
-            $type = preg_match('/^\d+\./', $line) ? 'ol' : 'ul';
-            $flush_paragraph();
-            if (!$in_list || $list_type !== $type) {
-                $close_list();
-                $html[] = '<' . $type . '>';
-                $in_list = true;
-                $list_type = $type;
-            }
-            $html[] = '<li>' . $match[1] . '</li>';
-            continue;
-        }
-
-        if (preg_match('/^>\s?(.+)$/', $line, $match)) {
-            $flush_paragraph();
-            $close_list();
-            $html[] = '<blockquote><p>' . $match[1] . '</p></blockquote>';
-            continue;
-        }
-
-        $paragraph[] = $line;
-    }
-
-    $flush_paragraph();
-    $close_list();
-    return implode("\n", $html);
+    http_response_code(503);
+    return '<p class="renderer-error">The Markdown renderer is unavailable. Run <code>composer install</code> in the handbook directory, then reload this page.</p>';
 }
 
 $documents = all_markdown_files();
