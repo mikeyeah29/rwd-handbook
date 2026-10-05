@@ -23,21 +23,22 @@ The emphasis is on reliable delivery, clean development and becoming a trusted l
 
 ### 2. Website Momentum
 
-Website Momentum is RWD's flagship recurring service and the foundation of long-term client relationships.
+Website Momentum is RWD's flagship recurring service, designed for established businesses whose website is an important source of leads and revenue.
 
-Rather than simply maintaining a website, Website Momentum keeps it moving forward through continuous improvement. By combining expert WordPress development with AI and automation, every website is regularly reviewed, refined and optimised to deliver greater value over time.
+Rather than simply maintaining a website or waiting for clients to request changes, RWD proactively monitors and improves it across four key areas:
 
-Depending on the plan, this may include:
+- **Health** — keeping the website secure, reliable and technically sound
+- **Performance** — keeping it fast and efficient
+- **Visibility** — improving how effectively the business is discovered through search
+- **Conversion** — improving how effectively visitors become enquiries and customers
 
-- WordPress updates, backups, security and monitoring
-- Performance and accessibility improvements
-- SEO monitoring and optimisation
-- Analytics, reporting and actionable recommendations
-- Conversion and content improvements
-- AI-powered business and marketing automations
-- Proactive monthly development and feature enhancements
+Strategy sits above all four areas, with work prioritised around one central question:
 
-The goal is simple: a great website should create momentum. Every month should leave the website faster, stronger, more effective and better aligned with the client's business goals.
+**What's the most valuable thing we can improve about this website next?**
+
+The goal is to maintain a high standard while continuously making the website a more effective business asset over time.
+
+**Keep it healthy. Make it better.**
 
 ### 3. Custom Website Builds
 

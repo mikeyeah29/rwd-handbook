@@ -1,13 +1,13 @@
-# Questions
+# Momentum
 
-This is to figure out what I'm acutally offering and who to.
+## 1. What am I offering?
 
-## 1. What are my skills? What can I offer?
+A monthly website care service that not only updates and maintains but monitors and improves the effectivness of the website each month based on the below 4 pillars.
 
-1. Health — WordPress/core/plugin updates, security, backups, broken functionality, errors, compatibility, general technical health.
-2. Performance — Core Web Vitals, page speed, image optimisation, caching, unnecessary scripts/assets, database/site performance.
-3. Visibility — technical SEO, Search Console monitoring, indexing/crawl issues, schema, metadata, internal linking, page structure, keyword opportunities, local SEO/on-page improvements.
-4. Conversion — calls to action, enquiry journeys, forms, UX problems, landing/service pages, mobile usability, analytics observations and iterative improvements.
+1. Health ( Is everything working properly? ) — WordPress/core/plugin updates, security, backups, broken functionality, errors, compatibility, general technical health.
+2. Performance ( Is everything fast and technically efficient? ) — Core Web Vitals, page speed, image optimisation, caching, unnecessary scripts/assets, database/site performance.
+3. Visibility ( Can the right people and AI systems discover the business? ) — technical SEO, Search Console monitoring, indexing/crawl issues, schema, metadata, internal linking, page structure, keyword opportunities, local SEO/on-page improvements.
+4. Conversion ( Does that attention turn into meaningful business? ) — calls to action, enquiry journeys, forms, UX problems, landing/service pages, mobile usability, analytics observations and iterative improvements.
 
 Above all of this is Strategy.
 
@@ -46,6 +46,8 @@ These are not to market to, as our ideal client is anyone who fits the above des
 ✘ Large companies with internal marketing/dev teams initially
 
 ## 3. What problem is Momentum actually solving?
+
+Momentum keeps your website effective as the digital landscape changes.
 
 **Why would my ideal customer pay me every month rather than simply hiring a developer/SEO person when they need one?**
 
@@ -191,15 +193,7 @@ You need to understand the business, get Analytics/Search Console access, audit 
 Month 1: Establish the baseline → understand the website → configure monitoring → build roadmap → fix priorities.
 Months 2+: Maintain → improve → measure → repeat.
 
-TO FINISH PLAN
-- Once document is done, ask AI if there is anything I haven't considered
-- How do I provide the report?
-- Pricing
-- Check competition and see if anyone else is doing anything like this
-- Does this fit the market demand as things are changing with AI and Automation? Should automation be included in the pillars in someway?
-- Write a prompt to build landing page from this doc and any others PLUS a landing page forumula that you trust.
-
-# Marketing / Other
+# Possible Marketing thoughts
 
 - I am the developer, so identifying issues with SEO / conversions means I can also do the work 
-- They save money as I'm a considerably cheaper monthly expense than hiring a full time dev / seo guy but improvements are made and site is looked after. However I'm still there for ad hock extra dev work if they require it
+- They save money as I'm a considerably cheaper monthly expense than hiring a full time dev / seo guy but improvements are made and site is looked after.

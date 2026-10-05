@@ -16,12 +16,9 @@
 
 ## Page Outline
 
-1. Hero
-2. Problem
-3. Solution
-4. Proof
-5. Process
-6. Call to action
+1. Hero section...
+2. ...
+etc
 
 ## Draft Copy
 
